@@ -1,0 +1,14 @@
+C:\Users\aleks\source\repos\TrainConfigurator\bin\Debug\net8.0\TrainConfigurator.exe
+C:\Users\aleks\source\repos\TrainConfigurator\bin\Debug\net8.0\TrainConfigurator.deps.json
+C:\Users\aleks\source\repos\TrainConfigurator\bin\Debug\net8.0\TrainConfigurator.runtimeconfig.json
+C:\Users\aleks\source\repos\TrainConfigurator\bin\Debug\net8.0\TrainConfigurator.dll
+C:\Users\aleks\source\repos\TrainConfigurator\bin\Debug\net8.0\TrainConfigurator.pdb
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.AssemblyInfo.cs
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.dll
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\refint\TrainConfigurator.dll
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.pdb
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\TrainConfigurator.genruntimeconfig.cache
+C:\Users\aleks\source\repos\TrainConfigurator\obj\Debug\net8.0\ref\TrainConfigurator.dll
